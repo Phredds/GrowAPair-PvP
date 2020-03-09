@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="SoDead_IncreasedZombies_TAYG" />
+		<Description value="Increases Zombie Spawns - That All You Got" />
+		<Author value="SoDead" />
+		<Version value="1.0" compat="A18.3" />
+		<Website value="" />
+	</ModInfo>
+</xml>
